@@ -36,9 +36,6 @@ object[key] = value
       delete key.salt
       return true
     }
-    function updateObjectWithKeyAndValue(object, key, value){
-      object({object},{key:value} )
-return object      
-    }
+  
   
   
