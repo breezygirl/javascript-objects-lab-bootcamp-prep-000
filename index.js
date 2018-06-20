@@ -28,7 +28,7 @@ return newObject
     
     function destructivelyDeleteFromObjectByKey(object, key){
       
-      delete key.salt
+      delete key.value
       return true
     }
   
