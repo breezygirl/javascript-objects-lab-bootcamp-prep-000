@@ -36,4 +36,6 @@ return newObject
     var newObject= Object.assign({}, object)
   
     delete newObject.key
+  return newObject
+    
   }
