@@ -37,5 +37,8 @@ object[key] = value
       return true
     }
     
-  function 
+  function updateObjectWithKeyAndValue(object, key, value){
+    
+    
+  }
   
