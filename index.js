@@ -38,7 +38,7 @@ object[key] = value
     }
   
   function function updateObjectWithKeyAndValue(object, key, value){
-    var newobject =  object.assign({recipes},{pan:medium} )
+    var newobject =  object.assign({},{pan:medium} )
 return object     
     }
   
