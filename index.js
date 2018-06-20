@@ -37,4 +37,7 @@ object[key] = value
       return true
     }
     
-  function 
+  function  deleteFromObjectByKey(object, key){
+    
+    
+  }
