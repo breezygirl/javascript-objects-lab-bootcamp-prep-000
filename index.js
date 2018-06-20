@@ -29,7 +29,7 @@ return newObject
     function destructivelyDeleteFromObjectByKey(object, key){
       
       delete key.value
-      return true
+      
     }
   
   function deleteFromObjectByKey(object, key){
