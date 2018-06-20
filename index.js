@@ -34,7 +34,9 @@ return newObject
     }
   
   function deleteFromObjectByKey(object, key){
-    
-    
+  var retObject = object  
+  
+  delete retObject[key]
+    return retObject
   }
   
