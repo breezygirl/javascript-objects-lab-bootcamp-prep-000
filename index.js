@@ -36,6 +36,6 @@ object[key] = value
       delete key.salt
       return true
     }
-    
+    function 
   
   
