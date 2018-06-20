@@ -37,10 +37,4 @@ object[key] = value
       return true
     }
     
-  function deleteFromObjectByKey(object, key){
-  
-     var newObject = object.assign({}, object)
-     delete newObject.key
-    return true
-  }
   
