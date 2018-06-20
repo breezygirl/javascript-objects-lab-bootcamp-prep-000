@@ -34,6 +34,7 @@ return newObject
     }
   
   function deleteFromObjectByKey(object, key){
-  var newObject = Object.assign({}, object)
-
+  var newObject = Object.assign({}, recipes)
+  delete[key]
+return newObject
   }
