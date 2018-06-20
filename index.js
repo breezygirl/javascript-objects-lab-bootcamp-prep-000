@@ -37,9 +37,9 @@ object[key] = value
       return true
     }
   
-  function function updateObjectWithKeyAndValue(object, key, value){
+  function function updateObjectWithKeyAndValue(object, key, value) {
     var newobject =  object.assign({},{object} )
-return object     
+return true    
     }
   
   
