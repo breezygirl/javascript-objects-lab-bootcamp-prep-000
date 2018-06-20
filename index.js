@@ -37,7 +37,7 @@ object[key] = value
       return true
     }
     
-  function  {
+  function  destructivelyDeleteFromObjectByKey()o{
     
     delete object.key
     return object
