@@ -39,4 +39,7 @@ return newObject
   return newObject
     
   }
-  function 
+  function destructivelyDeleteFromObjectByKey(object, key) {
+    
+    
+  }
