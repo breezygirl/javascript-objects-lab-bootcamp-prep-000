@@ -38,7 +38,9 @@ object[key] = value
     }
     
   function updateObjectWithKeyAndValue(object, key, value){
+    var newobject={ pan:'medium'}
     
+    return (object, newobject)
     
   }
   
