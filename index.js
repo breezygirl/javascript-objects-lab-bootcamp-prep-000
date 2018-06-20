@@ -17,4 +17,8 @@ function updateObjectWithKeyAndValue(object, key, value) {
 return newObject
 
       }
-      
+      function  deleteFromObjectByKey(object, key){
+     delete key.eggs
+     return object
+   }
+    
