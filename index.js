@@ -38,9 +38,9 @@ object[key] = value
     }
     
   function deleteFromObjectByKey(object, key){
-     var object = {pan:'medium'}
+  
      var newObject = object.assign({}, object)
-     delete newObject.pan
+     delete newObject.key
     return true
   }
   
