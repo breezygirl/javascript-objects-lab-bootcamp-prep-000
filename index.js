@@ -13,7 +13,7 @@ object[key] = value
   }
 function updateObjectWithKeyAndValue(object, key, value) {
  
- object['key2'] = 'value2'
+ object[key] = value
  
      
         return object
