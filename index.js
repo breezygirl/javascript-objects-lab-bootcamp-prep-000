@@ -32,4 +32,7 @@ return newObject
       return true
     }
   
-  deleteFromObjectByKey(object, key)
+  deleteFromObjectByKey(object, key){
+    
+    
+  }
