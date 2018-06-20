@@ -40,5 +40,5 @@ object[key] = value
   function  destructivelyDeleteFromObjectByKey(oject, key){
     
     delete object.key
-    return object
+    return false
   }
