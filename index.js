@@ -41,6 +41,6 @@ return newObject
   }
   function destructivelyDeleteFromObjectByKey(object, key) {
     delete key.butter
-    return true
+    return object
     
   }
